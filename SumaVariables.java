@@ -23,7 +23,7 @@ public class SumaVariables {
         suma = num1 + num2;
 
         // Imprimir resultado
-        System.out.println("La suma es: " + suma);
+        System.out.println("La suma es de estos valores es: " + suma);
 
     }
 }
