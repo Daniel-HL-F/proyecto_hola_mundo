@@ -4,6 +4,7 @@ public class Persona {
     private String nombre;
     private String correo;
     private int edad;
+    private String salario;
 
     // Constructor
     public Persona(String nombre, String correo, int edad) {
